@@ -28,6 +28,11 @@ pip install -r requirements.txt
 python example.py
 ```
 
+```
+python3 -m 'http.server'
+```
+open your browser and visit `http://localhost:8000/chart.html` to view the result
+
 ### Examples
 
 ### Input Data (Optional)
